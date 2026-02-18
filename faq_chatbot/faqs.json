@@ -1,0 +1,27 @@
+[
+  {
+    "intent": "application",
+    "question": "How can I apply for the internship?",
+    "answer": "You can apply for the internship through the official internship portal."
+  },
+  {
+    "intent": "eligibility",
+    "question": "Is prior experience required to apply?",
+    "answer": "No, prior experience is not required. Beginners are welcome."
+  },
+  {
+    "intent": "duration",
+    "question": "What is the duration of the internship?",
+    "answer": "The internship duration is 8 weeks."
+  },
+  {
+    "intent": "certificate",
+    "question": "Will I receive a certificate after completion?",
+    "answer": "Yes, a certificate will be provided after successful completion of the internship."
+  },
+  {
+    "intent": "payment",
+    "question": "Is there any stipend provided during the internship?",
+    "answer": "No, this internship does not provide a stipend. It is focused on learning and experience."
+  }
+]
